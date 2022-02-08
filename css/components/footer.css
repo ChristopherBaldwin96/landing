@@ -1,0 +1,20 @@
+.footer-container {
+  text-align: center;
+  padding: 65px;
+  background-color: cadetblue
+}
+
+#heart {
+  color: rgb(52, 86, 87);
+}
+
+.links p {
+  font-family: 'Spartan', sans-serif;
+  text-shadow: 5px 5px 5px black;
+  font-weight: 900;
+}
+
+.footer-container a {
+  color: rgb(52, 86, 87);
+  font-size: 65px;
+}
