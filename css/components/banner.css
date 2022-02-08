@@ -35,3 +35,8 @@
   background-color: cadetblue;
   text-shadow: 2px 2px 3px black
 }
+
+.sign-up-btn:hover {
+  text-shadow: 2px 2px 5px rgb(10, 7, 7);
+  background-color: rgb(62, 106, 107);
+}
